@@ -15,4 +15,4 @@ def binarySearch(arr, number):
 
     return -1
 
-print(binarySearch([1,2,3,5,6,7], 4))
+
